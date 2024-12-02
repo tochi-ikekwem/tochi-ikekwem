@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ... kematochi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love writing 
 
 <!---
 tochi-ikekwem/tochi-ikekwem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
